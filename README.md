@@ -58,6 +58,4 @@
 
 ---
 
-## Sugestão de Caminho
-Comece pequeno: escolha **um nicho inicial** (ex.: consultoria financeira para autônomos ou curso de vendas online), valide com alguns clientes e depois expanda.
 
